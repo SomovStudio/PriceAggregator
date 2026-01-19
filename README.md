@@ -1,0 +1,2 @@
+# PriceAggregator
+Анализ прайс-листов
